@@ -1,0 +1,5 @@
+# 标记狮还原技能脚本依赖
+# 安装命令: pip install -r requirements.txt
+
+# 视觉回归报告所需（像素对比/热力图生成）
+Pillow>=9.0.0
